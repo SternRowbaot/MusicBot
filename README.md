@@ -1,7 +1,7 @@
 Official musicbot readme below.
 
 # Robs custom musicbot features:
-## Shorthand commands
+## Alias commands
 * play: "", "p"
 * skip: "s"
 * volume: "vol", "v"
@@ -14,11 +14,11 @@ Official musicbot readme below.
 * autoplaylist: "ap"
 
 ## Planned features:
-* Update help command to reflect shorthand commands
 * Multiple playlists
 * Autoplaylist backup
 * Autoplaylist depends on audience
 * Queue the first xx of a yyyy long playlist
+* Seek in current song
 
 # MusicBot
 
